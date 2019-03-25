@@ -3823,6 +3823,10 @@ code, [class*='bg-'] pre {
   background-color: #3b5998;
 }
 
+.bg-orange {
+  background-color: #ffa6007e;
+}
+
 [class*='bg-'] .bg-white {
   color: #333;
   text-shadow: none;
